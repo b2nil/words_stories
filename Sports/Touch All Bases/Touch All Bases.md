@@ -2,7 +2,7 @@
 
 Now, the VOA Special English program ==**WORDS AND THEIR STORIES**==.
 
-American English is full of colorful expressions. One such expression is==** to touch all bases.**==  It comes from the sport of baseball.
+American English is full of colorful expressions. One such expression is ==**to touch all bases**==.  It comes from the sport of baseball.
 
 There are four bases in baseball -- first, second and third. The fourth is home plate. Together, the bases form a diamond shape.  When a baseball player hits the ball, he must run to each base -- in order -- and touch it with his foot. It is the only way to score a point. If the player hits the ball and fails to touch all the bases, the point will not be counted.
 
