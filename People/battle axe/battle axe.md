@@ -1,7 +1,5 @@
 # Battle-Axe &amp; Bear the Brunt
 
-![](se-ws-battle-axe.mp3)
-
 I'm Susan Clark  with the Special English program ==**WORDS AND THEIR STORIES**==.
 Jane Smith is president of a large sales company in a city on the American West Coast. For years her company has made large profits. It has done well, even <abbr title="经济低迷的时期">during bad economic times</abbr>.
 
